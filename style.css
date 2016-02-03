@@ -16,6 +16,10 @@ color: #ed0e0e;
 text-decoration: none;
 }
 
+table tr td {
+  padding: 10px;
+}
+
 .card {
 
 background: white;                          /* White background */
